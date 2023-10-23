@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Hilda VR</h1>
-<h3 align="center">Apasionada del Diseño y a la Realidad Aumentada en MetaSpark</h3>
+<h3 align="center">Apasionada del Diseño y a la Realidad Aumentada en MetaSpark AR</h3>
 
 - 💬 Ask me about **MetaSpark AR, HTML, CSS**
 
