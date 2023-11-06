@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, Soy Hilda VR</h1>
 <h3 align="center">Apasionada del Diseño y a la Realidad Aumentada en MetaSpark AR</h3>
 
+<p>Gané el Tercer el lugar de Realidad Aumentada en la ADIP con Spark AR de Meta y Reconocimiento por la ADIP y Meta en Octubre 2023. He creado Propuestas de diseño para Apps, propuestas de diseño para Páginas Web, logotipos. Páginas estáticas con HTML y CSS.
+Anteriormente creaba páginas web con ADN en la Agencia de Marketing Digital ADN de Sección Amarilla.</p>
+
 - 💬 Ask me about **MetaSpark AR, HTML, CSS**
 
 - 📫 How to reach me **mavrhils@gmail.com**
