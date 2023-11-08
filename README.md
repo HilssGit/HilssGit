@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, Soy Hilda VR</h1>
 <h3 align="center">Apasionada del Diseño y a la Realidad Aumentada en MetaSpark AR</h3>
 
-![BannerHilda](https://github.com/HilssGit/HilssGit/assets/148596731/6df71dac-4272-4295-ad8a-f9ba74de7fb9)
+![BannerHilda](https://github.com/HilssGit/HilssGit/assets/148596731/77e27599-1c43-4d72-9700-e466c5d3e1a3)
+
 
 <p>Gané el Tercer el lugar de Realidad Aumentada en la ADIP con Spark AR de Meta y Reconocimiento por la ADIP y Meta en Octubre 2023. He creado Propuestas de diseño para Apps, propuestas de diseño para Páginas Web, logotipos. Páginas estáticas con HTML y CSS.
 Anteriormente creaba páginas web con ADN en la Agencia de Marketing Digital ADN de Sección Amarilla.</p>
